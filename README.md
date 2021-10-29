@@ -3,7 +3,7 @@ A estrutura do conteúdo e das pastas foram feitas pelo tutorial Rocketseat - NL
 
 NLW 7 - 2021 - Arquitetura do backend.
 
-## ------------------------------------------- LINKS -------------------------------------------------
+## ------------------- LINKS -------------------
 
 Os links são avulsos de ferramentas externas que podem ser utilizadas. 
 <!-- LINKS E ANOTAÇÕES -->
@@ -13,3 +13,9 @@ Os links são avulsos de ferramentas externas que podem ser utilizadas.
 
 ## Crypto
 [Link](https://blog.logrocket.com/node-js-crypto-module-a-tutorial/)
+
+## Bcrypt
+[Link](https://www.npmjs.com/package/bcrypt)
+
+## [Doc sobre criptrografia](https://docs.google.com/document/d/1wcGZGyyfGijrcPi-VfqnEiZfMb8HRRdtVT6UOjlqMOc/edit?usp=sharing)
+
