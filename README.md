@@ -3,10 +3,26 @@ A estrutura do conteúdo e das pastas foram feitas pelo tutorial Rocketseat - NL
 
 NLW 7 - 2021 - Arquitetura do backend.
 
-## ------------------- LINKS -------------------
+# LINKS 
 
 Os links são avulsos de ferramentas externas que podem ser utilizadas. 
 <!-- LINKS E ANOTAÇÕES -->
+
+## Arquitetura
+ Tipos: 
+
+[Link](https://posdigital.pucpr.br/blog/tipos-de-arquitetura-de-software)
+
+MVC: 
+
+[Link](https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308)
+
+Microservices: 
+ 
+ [Link](https://smartbear.com/solutions/microservices/)
+
+[Link](https://www.redhat.com/pt-br/topics/microservices)
+
 
 ## Middleware
 [Link](https://blog.logrocket.com/express-middleware-a-complete-guide/)
